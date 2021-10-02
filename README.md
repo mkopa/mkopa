@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+	<img src="https://github.com/mkopa/mkopa/blob/main/mkopa.png" alt="Hello, I'm Marcin Kopa. I like code and science.">
+</div>
 
 <!--
 **mkopa/mkopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
