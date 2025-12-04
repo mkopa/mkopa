@@ -20,4 +20,4 @@
 
 ### Please contact me if you want to ask something
 
-- E-mail => marcin.info@gmail.com
+- E-mail => marcin@marcin.info
