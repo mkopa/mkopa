@@ -21,3 +21,6 @@
 ### Please contact me if you want to ask something
 
 - E-mail => marcin@marcin.info
+I use email encryption with pgp and maybe you do, too?
+Here's my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/B87BBD4017855690086F2AB69E3D1F2BD14509DB).
+If you don't know what that is you might want to give [cryptoparty](https://www.cryptoparty.in) a try.
